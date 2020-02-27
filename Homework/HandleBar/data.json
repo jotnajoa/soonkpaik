@@ -1,0 +1,29 @@
+{"data":[
+    {
+        "Category":"Furniture",
+        "ItemInfo":
+        [
+            {
+                "Name":"B&BItalia",
+                "content":{
+
+                    "image":"https://www.bebitalia.com/sites/default/files/slider/Home_Aurae.jpg",
+                    "price":"15,000"
+                }
+
+            },
+
+            {
+                "Name":"Kettal",
+                "content":{
+
+                    "image":"https://www.kettal.com/configurador/molo/assets/user-interface/template-2.jpg",
+                    "price":"10,000"
+                     
+                }
+
+            }
+        
+        ]
+    
+    }]}

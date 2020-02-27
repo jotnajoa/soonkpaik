@@ -1,0 +1,15 @@
+
+ {
+   "Category": "Furniture",
+   "Manufacturer": "B&B Italia",
+   "ItemName": "Aurae",
+   "Price": "15,000",
+   "Photo": "https://www.bebitalia.com/sites/default/files/slider/Home_Aurae.jpg"
+ },
+ {
+   "Category": "Finish",
+   "Manufacturer": "Stonepeak",
+   "ItemName": "SANDED CEMENT",
+   "Price": "12/ea",
+   "Photo": "https://www.stonepeakceramics.com/images/linee/stonecrete/sanded_cement.jpg"
+ }

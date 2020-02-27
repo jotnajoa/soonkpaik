@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+       
+        <title>HandleBar Homework</title>
+        <link rel='stylesheet' href="./style.css"></linke>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="./handlebars.js"></script>
+        <script src='./main.js'></script>
+    </head>
+
+    <body>
+
+        <div class="websites-list">
+            <script id="websites-template" type="x-handlebars-template">​
+                                  
+                {{#each data}}
+                    <h1>{{Category}}</h1>
+                    {{#each website-info}}
+                        <div class= "website-container">
+                            <a href="{{Name}}" target="blank">
+                                <img class = "image" src ="{{image}}">
+                            </a>
+    
+                            <h2>{{price}}</h2>
+    
+                        </div>
+                    {{/each}}
+    
+                {{/each}}
+    
+                
+            </script>
+     
+        </div>
+    
+
+    
+    </body>
+</html>
