@@ -1,3 +1,5 @@
+var clicknum =0;
+
 window.addEventListener('DOMContentLoaded', function () {
 
     // loadData();
@@ -9,8 +11,7 @@ window.addEventListener('DOMContentLoaded', function () {
 attachEvent = ()=>{
     $("#search-button").click(()=>{
         loadData();
-
-        $("#dogname").val("");
+        // $("#dogname").val("");
 
     })
 
@@ -18,30 +19,24 @@ attachEvent = ()=>{
 
         if(e.keyCode ==13){
             loadData();
-
-            $("#dogname").val("");
-
+            // $("#dogname").val("");
         }
 
     })
+    
+
 }
 
 
 loadData = ()=>{
-
+    clicknum ++;
     let dogname = $("#dogname").val();
-    console.log(dogname)
 
-$.getJSON("https://dog.ceo/api/breed/"+dogname+"/images/random/3" , 
+$.getJSON("https://dog.ceo/api/breed/"+dogname+"/images" , 
 (data)=>{
+    $('#view').append('<img>')
+    $('img').last().addClass('dogimg'+clicknum)
+    $('img:nth-child('+clicknum+')').attr('src',data.message[clicknum])
 
-    console.log(data);
-    let dogsrc = data.message[0];
-
-    //K * 9/5 -459.67
-    // $(".temp").append(temp.toFixed(2) * 9/5 - 459.67);
-
-
-    //$(".temp").html(Math.floor(temp * 9/5 - 459.67) + " " + "°F");
-    $(".dogimg").attr("src", dogsrc);
 })}
+
