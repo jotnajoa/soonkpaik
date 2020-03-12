@@ -1,0 +1,65 @@
+[
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":500,
+   "height":500,
+   "ceilingHeight":100
+},
+
+{
+   "room-name":"BedRoom",
+   "coordata":[
+      {"x":0,"y":0},
+      {"x":150,"y":0},
+      {"x":150,"y":100},
+      {"x":120,"y":100},
+      {"x":120,"y":200},
+      {"x":0,"y":200},
+      {"x":0,"y":0}
+   ],
+   "ceilingHeight":100
+},
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":150,
+   "height":150,
+   "ceilingHeight":100
+},
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":150,
+   "height":150,
+   "ceilingHeight":100
+},
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":150,
+   "height":150,
+   "ceilingHeight":100
+},
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":150,
+   "height":150,
+   "ceilingHeight":100
+},
+{
+   "room-name":"LivingRoom",
+   "x":0,
+   "y":0,
+   "width":150,
+   "height":150,
+   "ceilingHeight":100
+}
+
+]

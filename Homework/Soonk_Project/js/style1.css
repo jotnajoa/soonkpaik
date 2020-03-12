@@ -1,0 +1,34 @@
+
+
+.dimension
+{
+        display:block;
+        font-family:arial;
+        font-size:10px;
+        font-style:italic;
+        color:rgba(128, 128, 128, 0.671);
+        color:rgba(77, 90, 84, 0.795)
+}
+
+.dimensionoff{
+        display:none;
+}
+
+.newroom{
+        stroke:blue;
+        stroke-width:2px;
+        color:red;
+        fill:rgba(128, 128, 128, 0.007)
+
+}
+
+#Table3{
+        z-index: -1;
+}
+
+#Table1{
+        z-index: 100;
+}
+
+
+

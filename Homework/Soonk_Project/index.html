@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+    <link rel="stylesheet" href="https://use.typekit.net/lwi1qqr.css">
+    <title>Room Building</title>
+    <body>
+    
+    <section>
+        <div id="entry">
+        <img class="entryimg" src='./library/entry.png' style='display:none;'>
+        <img class="underline" src='./library/underline.png' style='display:none;'>
+        </div>
+        <h1></h1>   
+    </section>
+    <nav>
+        <div class=sidebar style='display:block'>
+            <ul id="builderlist">Room Builder
+                <br><br><br>
+                <li id="livingroom">LivingRoom</li><br>
+                <li id="kitchen">Kitchen</li><br>
+                <li id="bedroom">Bed Room</li>
+            <input type="text" class="inputtext" placeholder="addyourroom">
+            <button class="addButton"type="button">ADD</button></span>
+        </div>
+        <div class='fslidebar'>
+            <ul>Itemlist    
+            <br><br><br>
+                <li id="Sqtable">CoffeeTable</li><br><br><br><br><br><br><br><br><br>
+                <li id="Ltable">LongTable</li><br><br><br><br><br><br><br><br><br>
+                <li id="Rtable">SideTable</li>
+            </ul>
+        </div>
+        <div class=roomimg style='display:non'>
+            <img class='roomimg' src='./library/roomshape.png' style='display:none;'>
+        </div>
+        <div id="container"></div>
+        
+    </nav>
+    </body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="./js/three.min.js"></script>
+<script src="./js/OrbitControls.js"></script>
+<!-- <script src="./library/OBJLoader.js"></script>
+<script src="./library/MTLLoader.js"></script> -->
+
+<script type="x-shader/x-vertex" id="vertexShader">
+	varying vec3 vWorldPosition;
+	void main() {
+		vec4 worldPosition = modelMatrix * vec4( position, 1.0 );
+		vWorldPosition = worldPosition.xyz;
+		gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
+	}
+</script>
+<script type="x-shader/x-fragment" id="fragmentShader">
+	uniform vec3 topColor;
+	uniform vec3 bottomColor;
+	uniform float offset;
+	uniform float exponent;
+	varying vec3 vWorldPosition;
+	void main() {
+		float h = normalize( vWorldPosition + offset ).y;
+		gl_FragColor = vec4( mix( bottomColor, topColor, max( pow( max( h , 0.0), exponent ), 0.0 ) ), 1.0 );
+	}
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/5.15.0/d3.js'></script>
+<script src="./js/OrbitControlsTH.min.js"></script>
+<script src='./js/DAT.GUI.min.js'></script>
+<script src='./js/sepfilesgeom.js'></script>
+<script src="./js/main.js"></script>
+<link rel="stylesheet" href="./style/style.css">
+<script id="main_wgl" type="text/javascript" src='./js/3dobject.js'></script>
+<script src='./js/rooms.js'></script>
+<script src='./js/table1.js'></script>
+<script src='./js/table2.js'></script>
+<script src='./js/table3.js'></script>
+<!-- <script src='./js/table4.js'></script> -->
+
+
+
+
+</html>

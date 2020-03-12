@@ -1,0 +1,152 @@
+.entryimg{
+    width:70%;
+    position:absolute;
+    top:30%;
+    left:30%; 
+    z-index:2;  
+}
+h1{
+    font-family:proxima-nova;
+    font-style:normal;
+    font-weight:800;
+    font-size:3em
+}
+.sidebar{
+    z-index:1;
+    background-color:rgba(87, 86, 86, 0.637);
+    color:rgb(255, 255, 255);
+    position:absolute;
+    width:0;
+    height:100%
+}
+.fslidebar{
+    z-index:-1;
+    background-color:rgba(87, 86, 86, 0.637);
+    position:absolute;
+    width:0;
+    height:100%;
+    display:none;
+}
+li{
+    display:none;
+    font-family:proxima-nova;
+    font-style:normal;
+    font-size:0.5em;
+    color:white;
+    position:relative;
+    top:20%;
+    left:-25px;
+}
+
+ul{
+    display:none; 
+    font-family:proxima-nova;
+    font-style:normal;
+    font-size:1em;
+    color:white;
+    left:-25px;
+}
+.underline{
+    width:60%;
+}
+
+.addButton{
+    position:absolute;
+    left:76.8%;
+    top:94.5%;
+    height:20px;
+    border-radius:10px
+}
+.inputtext{
+    position:absolute;
+    top:94.65%;
+    left:1%;
+}
+.roomimg{
+    position:absolute;
+    width:1500px;
+    left:5%;
+    top:5%;
+}
+
+  .close-button{
+	  display:block;
+  }
+  #container {
+	position: absolute;
+	top: -300;
+	left: 150;
+	right: 0;
+	bottom: 0;
+    display:none;
+  }
+	#modal{display:none;}
+	.lt-cell {
+		background: #A9D0F5;
+		font-size: x-large;
+		font-weight: bold;
+    }
+    .close-button{
+        display:none;
+    }
+    
+	.lt-cell:hover{
+		background: #F7BE81;
+		font-size: x-large;
+		font-weight: bold;
+    }
+    .ulbox{
+        display:none;
+    }
+  
+.dimension
+{
+        display:block;
+        font-family:arial;
+        font-size:20px;
+        font-style:italic;
+        color:rgba(128, 128, 128, 0.671)
+
+}
+
+.dimensionoff{
+        display:none;
+}
+.livingroom{
+        display:none;
+}
+/* .newroom{
+        stroke:blue;
+        stroke-width:2px;
+        color:red;
+        fill:rgba(128, 128, 128, 0.007)
+
+} */
+	.modalBody{position: fixed; z-index:1000; background: #FFFFFF; width:80%; left:10%; top:10%; height: 80%}
+    .modalBK{position: fixed; z-index:999; height:100%; width:100%;background:#000; opacity: 0.9;filter: alpha(opacity=60);-moz-opacity:0.60;}
+ .mute{
+     display:none;
+ }
+#Sqtable{
+display:none;
+
+}
+#Ltable{
+    display:none;
+    }
+#Rtable{
+        display:none;
+        }
+/* #Table1{
+    z-index: 100
+}
+#Table2{
+    z-index: 100
+}
+#Table3{
+    z-index: 100
+} */
+/* 
+body{
+    background-color: rgb(209, 109, 98);
+} */
