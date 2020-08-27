@@ -1,3 +1,4 @@
+
 let blog= [{"channelname": "mj93m",
   "data": {"dpi": [{"date": "2020/04", "value": 128.191676689286},
                    {"date": "2020/05", "value": -924.292719014484},
