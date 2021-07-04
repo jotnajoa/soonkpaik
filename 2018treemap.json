@@ -1,0 +1,1850 @@
+{
+    "name": "TypeRatioData",
+    "children": [{
+            "county": "Brooklyn",
+            "children": [{
+                    "ticketName": "PHTO SCHOOL ZN SPEED VIOLATION",
+                    "county": "BK",
+                    "countSum": 94619,
+                    "costSum": 5803876
+                },
+                {
+                    "ticketName": "NO PARKING-STREET CLEANING",
+                    "county": "BK",
+                    "countSum": 76886,
+                    "costSum": 4107588
+                },
+                {
+                    "ticketName": "FIRE HYDRANT",
+                    "county": "BK",
+                    "countSum": 19207,
+                    "costSum": 2311576
+                },
+                {
+                    "ticketName": "OBSTRUCTING DRIVEWAY",
+                    "county": "BK",
+                    "countSum": 1648,
+                    "costSum": 168983
+                },
+                {
+                    "ticketName": "DOUBLE PARKING",
+                    "county": "BK",
+                    "countSum": 10554,
+                    "costSum": 1194125
+                },
+                {
+                    "ticketName": "TRAFFIC LANE",
+                    "county": "BK",
+                    "countSum": 39,
+                    "costSum": 3233
+                },
+                {
+                    "ticketName": "NO PARKING-DAY/TIME LIMITS",
+                    "county": "BK",
+                    "countSum": 18047,
+                    "costSum": 1138768
+                },
+                {
+                    "ticketName": "REG. STICKER-EXPIRED/MISSING",
+                    "county": "BK",
+                    "countSum": 8823,
+                    "costSum": 631301
+                },
+                {
+                    "ticketName": "CROSSWALK",
+                    "county": "BK",
+                    "countSum": 3136,
+                    "costSum": 359132
+                },
+                {
+                    "ticketName": "NO STANDING-BUS STOP",
+                    "county": "BK",
+                    "countSum": 8169,
+                    "costSum": 918809
+                },
+                {
+                    "ticketName": "BUS LANE VIOLATION",
+                    "county": "BK",
+                    "countSum": 4935,
+                    "costSum": 638994
+                },
+                {
+                    "ticketName": "NGHT PKG ON RESID STR-COMM VEH",
+                    "county": "BK",
+                    "countSum": 1781,
+                    "costSum": 87277
+                },
+                {
+                    "ticketName": "NO STANDING-DAY/TIME LIMITS",
+                    "county": "BK",
+                    "countSum": 20327,
+                    "costSum": 2228128
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. AUTH. VEHICLE",
+                    "county": "BK",
+                    "countSum": 987,
+                    "costSum": 84398
+                },
+                {
+                    "ticketName": "FAIL TO DSPLY MUNI METER RECPT",
+                    "county": "BK",
+                    "countSum": 39715,
+                    "costSum": 1207109
+                },
+                {
+                    "ticketName": "",
+                    "county": "BK",
+                    "countSum": 5304,
+                    "costSum": 6160
+                },
+                {
+                    "ticketName": "PEDESTRIAN RAMP",
+                    "county": "BK",
+                    "countSum": 386,
+                    "costSum": 53191
+                },
+                {
+                    "ticketName": "WRONG WAY",
+                    "county": "BK",
+                    "countSum": 149,
+                    "costSum": 7325
+                },
+                {
+                    "ticketName": "BIKE LANE",
+                    "county": "BK",
+                    "countSum": 1618,
+                    "costSum": 175053
+                },
+                {
+                    "ticketName": "SIDEWALK",
+                    "county": "BK",
+                    "countSum": 2009,
+                    "costSum": 230713
+                },
+                {
+                    "ticketName": "INSP. STICKER-EXPIRED/MISSING",
+                    "county": "BK",
+                    "countSum": 18193,
+                    "costSum": 1380957
+                },
+                {
+                    "ticketName": "EXPIRED MUNI METER",
+                    "county": "BK",
+                    "countSum": 14239,
+                    "costSum": 521367
+                },
+                {
+                    "ticketName": "NON-COMPLIANCE W/ POSTED SIGN",
+                    "county": "BK",
+                    "countSum": 4991,
+                    "costSum": 296717
+                },
+                {
+                    "ticketName": "DETACHED TRAILER",
+                    "county": "BK",
+                    "countSum": 152,
+                    "costSum": 2431
+                },
+                {
+                    "ticketName": "OBSTRUCTING TRAFFIC/INTERSECT",
+                    "county": "BK",
+                    "countSum": 327,
+                    "costSum": 35698
+                },
+                {
+                    "ticketName": "FRONT OR BACK PLATE MISSING",
+                    "county": "BK",
+                    "countSum": 2917,
+                    "costSum": 194010
+                },
+                {
+                    "ticketName": "OTHER",
+                    "county": "BK",
+                    "countSum": 25,
+                    "costSum": 1832
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HNDICAP PERMIT",
+                    "county": "BK",
+                    "countSum": 103,
+                    "costSum": 11382
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. AUTH. VEHICLE",
+                    "county": "BK",
+                    "countSum": 2412,
+                    "costSum": 133316
+                },
+                {
+                    "ticketName": "STORAGE-3HR COMMERCIAL",
+                    "county": "BK",
+                    "countSum": 229,
+                    "costSum": 12806
+                },
+                {
+                    "ticketName": "FEEDING METER",
+                    "county": "BK",
+                    "countSum": 3,
+                    "costSum": 98
+                },
+                {
+                    "ticketName": "ANGLE PARKING",
+                    "county": "BK",
+                    "countSum": 150,
+                    "costSum": 7513
+                },
+                {
+                    "ticketName": "INSP STICKER-MUTILATED/C'FEIT",
+                    "county": "BK",
+                    "countSum": 73,
+                    "costSum": 5120
+                },
+                {
+                    "ticketName": "INTERSECTION",
+                    "county": "BK",
+                    "countSum": 25,
+                    "costSum": 2566
+                },
+                {
+                    "ticketName": "BEYOND MARKED SPACE",
+                    "county": "BK",
+                    "countSum": 302,
+                    "costSum": 13837
+                },
+                {
+                    "ticketName": "VEHICLE FOR SALE(DEALERS ONLY)",
+                    "county": "BK",
+                    "countSum": 6,
+                    "costSum": 373
+                },
+                {
+                    "ticketName": "OVERTIME STDG D/S",
+                    "county": "BK",
+                    "countSum": 2,
+                    "costSum": 55
+                },
+                {
+                    "ticketName": "UNAUTHORIZED BUS LAYOVER",
+                    "county": "BK",
+                    "countSum": 21,
+                    "costSum": 615
+                },
+                {
+                    "ticketName": "PARKED BUS-EXC. DESIG. AREA",
+                    "county": "BK",
+                    "countSum": 655,
+                    "costSum": 28422
+                },
+                {
+                    "ticketName": "IMPROPER REGISTRATION",
+                    "county": "BK",
+                    "countSum": 75,
+                    "costSum": 4674
+                },
+                {
+                    "ticketName": "SAFETY ZONE",
+                    "county": "BK",
+                    "countSum": 749,
+                    "costSum": 85523
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. TRUCK LOADING",
+                    "county": "BK",
+                    "countSum": 844,
+                    "costSum": 74578
+                },
+                {
+                    "ticketName": "OVERTIME PKG-TIME LIMIT POSTED",
+                    "county": "BK",
+                    "countSum": 76,
+                    "costSum": 4757
+                },
+                {
+                    "ticketName": "PLTFRM LFTS LWRD POS COMM VEH",
+                    "county": "BK",
+                    "countSum": 161,
+                    "costSum": 4472
+                },
+                {
+                    "ticketName": "VEH-SALE/WSHNG/RPRNG/DRIVEWAY",
+                    "county": "BK",
+                    "countSum": 2,
+                    "costSum": 120
+                },
+                {
+                    "ticketName": "NO STANDING-BUS LANE",
+                    "county": "BK",
+                    "countSum": 138,
+                    "costSum": 14581
+                },
+                {
+                    "ticketName": "FAILURE TO STOP AT RED LIGHT",
+                    "county": "BK",
+                    "countSum": 54997,
+                    "costSum": 3297651
+                },
+                {
+                    "ticketName": "NO STANDING-HOTEL LOADING",
+                    "county": "BK",
+                    "countSum": 86,
+                    "costSum": 9039
+                },
+                {
+                    "ticketName": "NO MATCH-PLATE/STICKER",
+                    "county": "BK",
+                    "countSum": 173,
+                    "costSum": 10951
+                },
+                {
+                    "ticketName": "COMML PLATES-UNALTERED VEHICLE",
+                    "county": "BK",
+                    "countSum": 299,
+                    "costSum": 34475
+                },
+                {
+                    "ticketName": "MISSING EQUIPMENT",
+                    "county": "BK",
+                    "countSum": 52,
+                    "costSum": 2847
+                },
+                {
+                    "ticketName": "REG STICKER-MUTILATED/C'FEIT",
+                    "county": "BK",
+                    "countSum": 63,
+                    "costSum": 2888
+                },
+                {
+                    "ticketName": "NO STOPPING-DAY/TIME LIMITS",
+                    "county": "BK",
+                    "countSum": 340,
+                    "costSum": 34294
+                },
+                {
+                    "ticketName": "ELEVATED/DIVIDED HIGHWAY/TUNNL",
+                    "county": "BK",
+                    "countSum": 8,
+                    "costSum": 905
+                },
+                {
+                    "ticketName": "DIVIDED HIGHWAY",
+                    "county": "BK",
+                    "countSum": 20,
+                    "costSum": 2648
+                },
+                {
+                    "ticketName": "NO PARKING-TAXI STAND",
+                    "county": "BK",
+                    "countSum": 57,
+                    "costSum": 2844
+                },
+                {
+                    "ticketName": "NO STANDING-COMM METER ZONE",
+                    "county": "BK",
+                    "countSum": 7,
+                    "costSum": 436
+                },
+                {
+                    "ticketName": "OVERTIME STANDING DP",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 95
+                },
+                {
+                    "ticketName": "EXCAVATION-VEHICLE OBSTR TRAFF",
+                    "county": "BK",
+                    "countSum": 14,
+                    "costSum": 1119
+                },
+                {
+                    "ticketName": "RAILROAD CROSSING",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 105
+                },
+                {
+                    "ticketName": "NO STANDING-TAXI STAND",
+                    "county": "BK",
+                    "countSum": 47,
+                    "costSum": 4142
+                },
+                {
+                    "ticketName": "NIGHTTIME STD/ PKG IN A PARK",
+                    "county": "BK",
+                    "countSum": 2,
+                    "costSum": 323
+                },
+                {
+                    "ticketName": "NO STANDING-FOR HIRE VEH STOP",
+                    "county": "BK",
+                    "countSum": 6,
+                    "costSum": 552
+                },
+                {
+                    "ticketName": "NO STANDING-COMMUTER VAN STOP",
+                    "county": "BK",
+                    "countSum": 3,
+                    "costSum": 355
+                },
+                {
+                    "ticketName": "REMOVE/REPLACE FLAT TIRE",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HOTEL LOADING",
+                    "county": "BK",
+                    "countSum": 2,
+                    "costSum": 120
+                },
+                {
+                    "ticketName": "NO STOP/STANDNG EXCEPT PAS P/U",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 515
+                },
+                {
+                    "ticketName": "EXPIRED METER",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "FAIL TO DISP. MUNI METER RECPT",
+                    "county": "BK",
+                    "countSum": 59,
+                    "costSum": 1325
+                },
+                {
+                    "ticketName": "EXPIRED MUNI MTR-COMM MTR ZN",
+                    "county": "BK",
+                    "countSum": 9,
+                    "costSum": 296
+                },
+                {
+                    "ticketName": "WASH/REPAIR VEHCL-REPAIR ONLY",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "NO STD(EXC TRKS/GMTDST NO-TRK)",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "ANGLE PARKING-COMM VEHICLE",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "BUS PARKING IN LOWER MANHATTAN",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "UNALTERED COMM VEH-NME/ADDRESS",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "NO STANDING-OFF-STREET LOT",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "NO STANDING-SNOW EMERGENCY",
+                    "county": "BK",
+                    "countSum": 1,
+                    "costSum": 35
+                }
+            ]
+        },
+        {
+            "county": "Queens",
+            "children": [{
+                    "ticketName": "PHTO SCHOOL ZN SPEED VIOLATION",
+                    "county": "QN",
+                    "countSum": 77677,
+                    "costSum": 4760142
+                },
+                {
+                    "ticketName": "BUS LANE VIOLATION",
+                    "county": "QN",
+                    "countSum": 3904,
+                    "costSum": 509082
+                },
+                {
+                    "ticketName": "OBSTRUCTING DRIVEWAY",
+                    "county": "QN",
+                    "countSum": 1331,
+                    "costSum": 135092
+                },
+                {
+                    "ticketName": "REG. STICKER-EXPIRED/MISSING",
+                    "county": "QN",
+                    "countSum": 10462,
+                    "costSum": 778446
+                },
+                {
+                    "ticketName": "NO STANDING-DAY/TIME LIMITS",
+                    "county": "QN",
+                    "countSum": 16023,
+                    "costSum": 1779781
+                },
+                {
+                    "ticketName": "NO PARKING-STREET CLEANING",
+                    "county": "QN",
+                    "countSum": 35765,
+                    "costSum": 1935813
+                },
+                {
+                    "ticketName": "INSP. STICKER-EXPIRED/MISSING",
+                    "county": "QN",
+                    "countSum": 18937,
+                    "costSum": 1475172
+                },
+                {
+                    "ticketName": "PEDESTRIAN RAMP",
+                    "county": "QN",
+                    "countSum": 295,
+                    "costSum": 44248
+                },
+                {
+                    "ticketName": "DOUBLE PARKING",
+                    "county": "QN",
+                    "countSum": 3938,
+                    "costSum": 441944
+                },
+                {
+                    "ticketName": "",
+                    "county": "QN",
+                    "countSum": 4256,
+                    "costSum": 842
+                },
+                {
+                    "ticketName": "FIRE HYDRANT",
+                    "county": "QN",
+                    "countSum": 12579,
+                    "costSum": 1541653
+                },
+                {
+                    "ticketName": "NO PARKING-DAY/TIME LIMITS",
+                    "county": "QN",
+                    "countSum": 18290,
+                    "costSum": 1216616
+                },
+                {
+                    "ticketName": "FAIL TO DSPLY MUNI METER RECPT",
+                    "county": "QN",
+                    "countSum": 41644,
+                    "costSum": 1318322
+                },
+                {
+                    "ticketName": "EXPIRED MUNI METER",
+                    "county": "QN",
+                    "countSum": 22415,
+                    "costSum": 874640
+                },
+                {
+                    "ticketName": "CROSSWALK",
+                    "county": "QN",
+                    "countSum": 3309,
+                    "costSum": 393648
+                },
+                {
+                    "ticketName": "OBSTRUCTING TRAFFIC/INTERSECT",
+                    "county": "QN",
+                    "countSum": 1091,
+                    "costSum": 125117
+                },
+                {
+                    "ticketName": "INSP STICKER-MUTILATED/C'FEIT",
+                    "county": "QN",
+                    "countSum": 891,
+                    "costSum": 58096
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. TRUCK LOADING",
+                    "county": "QN",
+                    "countSum": 1418,
+                    "costSum": 136627
+                },
+                {
+                    "ticketName": "PLTFRM LFTS LWRD POS COMM VEH",
+                    "county": "QN",
+                    "countSum": 239,
+                    "costSum": 7600
+                },
+                {
+                    "ticketName": "NO STANDING-BUS STOP",
+                    "county": "QN",
+                    "countSum": 7353,
+                    "costSum": 826324
+                },
+                {
+                    "ticketName": "SIDEWALK",
+                    "county": "QN",
+                    "countSum": 2069,
+                    "costSum": 249685
+                },
+                {
+                    "ticketName": "PARKED BUS-EXC. DESIG. AREA",
+                    "county": "QN",
+                    "countSum": 417,
+                    "costSum": 18617
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HNDICAP PERMIT",
+                    "county": "QN",
+                    "countSum": 164,
+                    "costSum": 25113
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. AUTH. VEHICLE",
+                    "county": "QN",
+                    "countSum": 1251,
+                    "costSum": 76310
+                },
+                {
+                    "ticketName": "FRONT OR BACK PLATE MISSING",
+                    "county": "QN",
+                    "countSum": 4037,
+                    "costSum": 272999
+                },
+                {
+                    "ticketName": "COMML PLATES-UNALTERED VEHICLE",
+                    "county": "QN",
+                    "countSum": 426,
+                    "costSum": 51577
+                },
+                {
+                    "ticketName": "BIKE LANE",
+                    "county": "QN",
+                    "countSum": 596,
+                    "costSum": 64672
+                },
+                {
+                    "ticketName": "NO PARKING-TAXI STAND",
+                    "county": "QN",
+                    "countSum": 589,
+                    "costSum": 34130
+                },
+                {
+                    "ticketName": "WRONG WAY",
+                    "county": "QN",
+                    "countSum": 538,
+                    "costSum": 26383
+                },
+                {
+                    "ticketName": "STORAGE-3HR COMMERCIAL",
+                    "county": "QN",
+                    "countSum": 1251,
+                    "costSum": 75605
+                },
+                {
+                    "ticketName": "DETACHED TRAILER",
+                    "county": "QN",
+                    "countSum": 197,
+                    "costSum": 4347
+                },
+                {
+                    "ticketName": "NO STOPPING-DAY/TIME LIMITS",
+                    "county": "QN",
+                    "countSum": 289,
+                    "costSum": 29730
+                },
+                {
+                    "ticketName": "NGHT PKG ON RESID STR-COMM VEH",
+                    "county": "QN",
+                    "countSum": 1598,
+                    "costSum": 91006
+                },
+                {
+                    "ticketName": "BEYOND MARKED SPACE",
+                    "county": "QN",
+                    "countSum": 74,
+                    "costSum": 4295
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. AUTH. VEHICLE",
+                    "county": "QN",
+                    "countSum": 1213,
+                    "costSum": 113983
+                },
+                {
+                    "ticketName": "OTHER",
+                    "county": "QN",
+                    "countSum": 35,
+                    "costSum": 1437
+                },
+                {
+                    "ticketName": "NO STANDING-BUS LANE",
+                    "county": "QN",
+                    "countSum": 124,
+                    "costSum": 13748
+                },
+                {
+                    "ticketName": "IMPROPER REGISTRATION",
+                    "county": "QN",
+                    "countSum": 83,
+                    "costSum": 6175
+                },
+                {
+                    "ticketName": "NO MATCH-PLATE/STICKER",
+                    "county": "QN",
+                    "countSum": 252,
+                    "costSum": 16708
+                },
+                {
+                    "ticketName": "TRAFFIC LANE",
+                    "county": "QN",
+                    "countSum": 30,
+                    "costSum": 3380
+                },
+                {
+                    "ticketName": "FAILURE TO STOP AT RED LIGHT",
+                    "county": "QN",
+                    "countSum": 44897,
+                    "costSum": 2694422
+                },
+                {
+                    "ticketName": "NO STANDING-COMM METER ZONE",
+                    "county": "QN",
+                    "countSum": 657,
+                    "costSum": 78119
+                },
+                {
+                    "ticketName": "INTERSECTION",
+                    "county": "QN",
+                    "countSum": 32,
+                    "costSum": 2882
+                },
+                {
+                    "ticketName": "UNAUTHORIZED BUS LAYOVER",
+                    "county": "QN",
+                    "countSum": 23,
+                    "costSum": 530
+                },
+                {
+                    "ticketName": "REG STICKER-MUTILATED/C'FEIT",
+                    "county": "QN",
+                    "countSum": 79,
+                    "costSum": 4521
+                },
+                {
+                    "ticketName": "OVERNIGHT TRACTOR TRAILER PKG",
+                    "county": "QN",
+                    "countSum": 4,
+                    "costSum": 780
+                },
+                {
+                    "ticketName": "ANGLE PARKING",
+                    "county": "QN",
+                    "countSum": 187,
+                    "costSum": 9775
+                },
+                {
+                    "ticketName": "VIN OBSCURED",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 95
+                },
+                {
+                    "ticketName": "MISSING EQUIPMENT",
+                    "county": "QN",
+                    "countSum": 44,
+                    "costSum": 2217
+                },
+                {
+                    "ticketName": "ELEVATED/DIVIDED HIGHWAY/TUNNL",
+                    "county": "QN",
+                    "countSum": 3,
+                    "costSum": 322
+                },
+                {
+                    "ticketName": "NO STANDING-TAXI STAND",
+                    "county": "QN",
+                    "countSum": 170,
+                    "costSum": 15374
+                },
+                {
+                    "ticketName": "FAIL TO DISP. MUNI METER RECPT",
+                    "county": "QN",
+                    "countSum": 201,
+                    "costSum": 4411
+                },
+                {
+                    "ticketName": "NON-COMPLIANCE W/ POSTED SIGN",
+                    "county": "QN",
+                    "countSum": 424,
+                    "costSum": 26657
+                },
+                {
+                    "ticketName": "SAFETY ZONE",
+                    "county": "QN",
+                    "countSum": 701,
+                    "costSum": 80972
+                },
+                {
+                    "ticketName": "UNALTERED COMM VEH-NME/ADDRESS",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 156
+                },
+                {
+                    "ticketName": "EXPIRED MUNI MTR-COMM MTR ZN",
+                    "county": "QN",
+                    "countSum": 21,
+                    "costSum": 535
+                },
+                {
+                    "ticketName": "NO OPERATOR NAM/ADD/PH DISPLAY",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 105
+                },
+                {
+                    "ticketName": "EXCAVATION-VEHICLE OBSTR TRAFF",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 250
+                },
+                {
+                    "ticketName": "VACANT LOT",
+                    "county": "QN",
+                    "countSum": 4,
+                    "costSum": 195
+                },
+                {
+                    "ticketName": "UNAUTHORIZED PASSENGER PICK-UP",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "RAILROAD CROSSING",
+                    "county": "QN",
+                    "countSum": 3,
+                    "costSum": 315
+                },
+                {
+                    "ticketName": "NIGHTTIME STD/ PKG IN A PARK",
+                    "county": "QN",
+                    "countSum": 18,
+                    "costSum": 1924
+                },
+                {
+                    "ticketName": "DIVIDED HIGHWAY",
+                    "county": "QN",
+                    "countSum": 26,
+                    "costSum": 3133
+                },
+                {
+                    "ticketName": "NO STANDING-HOTEL LOADING",
+                    "county": "QN",
+                    "countSum": 9,
+                    "costSum": 907
+                },
+                {
+                    "ticketName": "OVERTIME PKG-TIME LIMIT POSTED",
+                    "county": "QN",
+                    "countSum": 105,
+                    "costSum": 7322
+                },
+                {
+                    "ticketName": "NO STANDING-COMMUTER VAN STOP",
+                    "county": "QN",
+                    "countSum": 19,
+                    "costSum": 2205
+                },
+                {
+                    "ticketName": "WASH/REPAIR VEHCL-REPAIR ONLY",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 75
+                },
+                {
+                    "ticketName": "VEH-SALE/WSHNG/RPRNG/DRIVEWAY",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 85
+                },
+                {
+                    "ticketName": "EXPIRED METER-COMM METER ZONE",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 35
+                },
+                {
+                    "ticketName": "FEEDING METER",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "VEHICLE FOR SALE(DEALERS ONLY)",
+                    "county": "QN",
+                    "countSum": 15,
+                    "costSum": 825
+                },
+                {
+                    "ticketName": "ALTERING INTERCITY BUS PERMIT",
+                    "county": "QN",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "ANGLE PARKING-COMM VEHICLE",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "NO STOP/STANDNG EXCEPT PAS P/U",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "SELLING/OFFERING MCHNDSE-METER",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 70
+                },
+                {
+                    "ticketName": "DOUBLE PARKING-MIDTOWN COMML",
+                    "county": "QN",
+                    "countSum": 2,
+                    "costSum": 192
+                }
+            ]
+        },
+        {
+            "county": "Manhattan",
+            "children": [{
+                    "ticketName": "PHTO SCHOOL ZN SPEED VIOLATION",
+                    "county": "MN",
+                    "countSum": 240582,
+                    "costSum": 14753688
+                },
+                {
+                    "ticketName": "NO STANDING-DAY/TIME LIMITS",
+                    "county": "MN",
+                    "countSum": 118419,
+                    "costSum": 12003219
+                },
+                {
+                    "ticketName": "BUS LANE VIOLATION",
+                    "county": "MN",
+                    "countSum": 12299,
+                    "costSum": 1594070
+                },
+                {
+                    "ticketName": "NO STANDING-COMM METER ZONE",
+                    "county": "MN",
+                    "countSum": 32404,
+                    "costSum": 3660564
+                },
+                {
+                    "ticketName": "",
+                    "county": "MN",
+                    "countSum": 13442,
+                    "costSum": 10531
+                },
+                {
+                    "ticketName": "FAIL TO DSPLY MUNI METER RECPT",
+                    "county": "MN",
+                    "countSum": 57926,
+                    "costSum": 2443333
+                },
+                {
+                    "ticketName": "FIRE HYDRANT",
+                    "county": "MN",
+                    "countSum": 25901,
+                    "costSum": 3067986
+                },
+                {
+                    "ticketName": "NO STANDING-BUS STOP",
+                    "county": "MN",
+                    "countSum": 22131,
+                    "costSum": 2352110
+                },
+                {
+                    "ticketName": "DOUBLE PARKING",
+                    "county": "MN",
+                    "countSum": 30393,
+                    "costSum": 1995537
+                },
+                {
+                    "ticketName": "TRAFFIC LANE",
+                    "county": "MN",
+                    "countSum": 1051,
+                    "costSum": 58913
+                },
+                {
+                    "ticketName": "SAFETY ZONE",
+                    "county": "MN",
+                    "countSum": 4554,
+                    "costSum": 496430
+                },
+                {
+                    "ticketName": "EXPIRED MUNI METER",
+                    "county": "MN",
+                    "countSum": 32026,
+                    "costSum": 1745530
+                },
+                {
+                    "ticketName": "NO PARKING-STREET CLEANING",
+                    "county": "MN",
+                    "countSum": 49285,
+                    "costSum": 3124877
+                },
+                {
+                    "ticketName": "NO PARKING-DAY/TIME LIMITS",
+                    "county": "MN",
+                    "countSum": 37351,
+                    "costSum": 2195790
+                },
+                {
+                    "ticketName": "NGHT PKG ON RESID STR-COMM VEH",
+                    "county": "MN",
+                    "countSum": 1193,
+                    "costSum": 40358
+                },
+                {
+                    "ticketName": "CROSSWALK",
+                    "county": "MN",
+                    "countSum": 4831,
+                    "costSum": 543389
+                },
+                {
+                    "ticketName": "REG. STICKER-EXPIRED/MISSING",
+                    "county": "MN",
+                    "countSum": 9589,
+                    "costSum": 691903
+                },
+                {
+                    "ticketName": "INSP. STICKER-EXPIRED/MISSING",
+                    "county": "MN",
+                    "countSum": 18112,
+                    "costSum": 1328294
+                },
+                {
+                    "ticketName": "SIDEWALK",
+                    "county": "MN",
+                    "countSum": 3264,
+                    "costSum": 345998
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. AUTH. VEHICLE",
+                    "county": "MN",
+                    "countSum": 9625,
+                    "costSum": 770603
+                },
+                {
+                    "ticketName": "STORAGE-3HR COMMERCIAL",
+                    "county": "MN",
+                    "countSum": 243,
+                    "costSum": 12340
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. TRUCK LOADING",
+                    "county": "MN",
+                    "countSum": 18582,
+                    "costSum": 1416875
+                },
+                {
+                    "ticketName": "NO OPERATOR NAM/ADD/PH DISPLAY",
+                    "county": "MN",
+                    "countSum": 29,
+                    "costSum": 3160
+                },
+                {
+                    "ticketName": "PEDESTRIAN RAMP",
+                    "county": "MN",
+                    "countSum": 156,
+                    "costSum": 19650
+                },
+                {
+                    "ticketName": "OBSTRUCTING DRIVEWAY",
+                    "county": "MN",
+                    "countSum": 294,
+                    "costSum": 28474
+                },
+                {
+                    "ticketName": "OTHER",
+                    "county": "MN",
+                    "countSum": 58,
+                    "costSum": 4134
+                },
+                {
+                    "ticketName": "FRONT OR BACK PLATE MISSING",
+                    "county": "MN",
+                    "countSum": 3090,
+                    "costSum": 194430
+                },
+                {
+                    "ticketName": "PLTFRM LFTS LWRD POS COMM VEH",
+                    "county": "MN",
+                    "countSum": 15513,
+                    "costSum": 669254
+                },
+                {
+                    "ticketName": "BIKE LANE",
+                    "county": "MN",
+                    "countSum": 9597,
+                    "costSum": 1007991
+                },
+                {
+                    "ticketName": "BEYOND MARKED SPACE",
+                    "county": "MN",
+                    "countSum": 112,
+                    "costSum": 6468
+                },
+                {
+                    "ticketName": "COMML PLATES-UNALTERED VEHICLE",
+                    "county": "MN",
+                    "countSum": 4929,
+                    "costSum": 464336
+                },
+                {
+                    "ticketName": "DOUBLE PARKING-MIDTOWN COMML",
+                    "county": "MN",
+                    "countSum": 34408,
+                    "costSum": 3048161
+                },
+                {
+                    "ticketName": "NO PARKING-TAXI STAND",
+                    "county": "MN",
+                    "countSum": 2561,
+                    "costSum": 76554
+                },
+                {
+                    "ticketName": "ELEVATED/DIVIDED HIGHWAY/TUNNL",
+                    "county": "MN",
+                    "countSum": 15,
+                    "costSum": 1148
+                },
+                {
+                    "ticketName": "FAILURE TO DISPLAY BUS PERMIT",
+                    "county": "MN",
+                    "countSum": 153,
+                    "costSum": 14408
+                },
+                {
+                    "ticketName": "NO STOP/STANDNG EXCEPT PAS P/U",
+                    "county": "MN",
+                    "countSum": 173,
+                    "costSum": 23849
+                },
+                {
+                    "ticketName": "WRONG WAY",
+                    "county": "MN",
+                    "countSum": 266,
+                    "costSum": 16554
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. AUTH. VEHICLE",
+                    "county": "MN",
+                    "countSum": 5505,
+                    "costSum": 308783
+                },
+                {
+                    "ticketName": "OBSTRUCTING TRAFFIC/INTERSECT",
+                    "county": "MN",
+                    "countSum": 7460,
+                    "costSum": 847440
+                },
+                {
+                    "ticketName": "OVERTIME PKG-TIME LIMIT POSTED",
+                    "county": "MN",
+                    "countSum": 103,
+                    "costSum": 6742
+                },
+                {
+                    "ticketName": "NO STOPPING-DAY/TIME LIMITS",
+                    "county": "MN",
+                    "countSum": 9412,
+                    "costSum": 927901
+                },
+                {
+                    "ticketName": "MISSING EQUIPMENT",
+                    "county": "MN",
+                    "countSum": 18,
+                    "costSum": 658
+                },
+                {
+                    "ticketName": "FAIL TO DISP. MUNI METER RECPT",
+                    "county": "MN",
+                    "countSum": 52324,
+                    "costSum": 1711161
+                },
+                {
+                    "ticketName": "NO STANDING-BUS LANE",
+                    "county": "MN",
+                    "countSum": 3464,
+                    "costSum": 351144
+                },
+                {
+                    "ticketName": "FAILURE TO STOP AT RED LIGHT",
+                    "county": "MN",
+                    "countSum": 138621,
+                    "costSum": 8312110
+                },
+                {
+                    "ticketName": "NO STANDING-HOTEL LOADING",
+                    "county": "MN",
+                    "countSum": 2990,
+                    "costSum": 312188
+                },
+                {
+                    "ticketName": "NO STANDING-TAXI STAND",
+                    "county": "MN",
+                    "countSum": 4270,
+                    "costSum": 299575
+                },
+                {
+                    "ticketName": "VIN OBSCURED",
+                    "county": "MN",
+                    "countSum": 2,
+                    "costSum": 202
+                },
+                {
+                    "ticketName": "SELLING/OFFERING MCHNDSE-METER",
+                    "county": "MN",
+                    "countSum": 1222,
+                    "costSum": 27297
+                },
+                {
+                    "ticketName": "NON-COMPLIANCE W/ POSTED SIGN",
+                    "county": "MN",
+                    "countSum": 154,
+                    "costSum": 9397
+                },
+                {
+                    "ticketName": "UNAUTHORIZED PASSENGER PICK-UP",
+                    "county": "MN",
+                    "countSum": 189,
+                    "costSum": 30996
+                },
+                {
+                    "ticketName": "PARKED BUS-EXC. DESIG. AREA",
+                    "county": "MN",
+                    "countSum": 641,
+                    "costSum": 24970
+                },
+                {
+                    "ticketName": "UNAUTHORIZED BUS LAYOVER",
+                    "county": "MN",
+                    "countSum": 2186,
+                    "costSum": 156262
+                },
+                {
+                    "ticketName": "NO STANDING EXCP D/S",
+                    "county": "MN",
+                    "countSum": 3334,
+                    "costSum": 239728
+                },
+                {
+                    "ticketName": "IDLING",
+                    "county": "MN",
+                    "countSum": 701,
+                    "costSum": 57322
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HNDICAP PERMIT",
+                    "county": "MN",
+                    "countSum": 14,
+                    "costSum": 2083
+                },
+                {
+                    "ticketName": "IMPROPER REGISTRATION",
+                    "county": "MN",
+                    "countSum": 223,
+                    "costSum": 13989
+                },
+                {
+                    "ticketName": "ANGLE PARKING",
+                    "county": "MN",
+                    "countSum": 352,
+                    "costSum": 20544
+                },
+                {
+                    "ticketName": "DETACHED TRAILER",
+                    "county": "MN",
+                    "countSum": 238,
+                    "costSum": 12330
+                },
+                {
+                    "ticketName": "NO STD(EXC TRKS/GMTDST NO-TRK)",
+                    "county": "MN",
+                    "countSum": 908,
+                    "costSum": 64369
+                },
+                {
+                    "ticketName": "INSP STICKER-MUTILATED/C'FEIT",
+                    "county": "MN",
+                    "countSum": 423,
+                    "costSum": 23936
+                },
+                {
+                    "ticketName": "NO MATCH-PLATE/STICKER",
+                    "county": "MN",
+                    "countSum": 221,
+                    "costSum": 15254
+                },
+                {
+                    "ticketName": "EXPIRED MUNI MTR-COMM MTR ZN",
+                    "county": "MN",
+                    "countSum": 16439,
+                    "costSum": 787030
+                },
+                {
+                    "ticketName": "MARGINAL STREET/WATER FRONT",
+                    "county": "MN",
+                    "countSum": 1,
+                    "costSum": 75
+                },
+                {
+                    "ticketName": "EXPIRED METER-COMM METER ZONE",
+                    "county": "MN",
+                    "countSum": 64,
+                    "costSum": 3126
+                },
+                {
+                    "ticketName": "EXCAVATION-VEHICLE OBSTR TRAFF",
+                    "county": "MN",
+                    "countSum": 133,
+                    "costSum": 10241
+                },
+                {
+                    "ticketName": "REG STICKER-MUTILATED/C'FEIT",
+                    "county": "MN",
+                    "countSum": 578,
+                    "costSum": 25783
+                },
+                {
+                    "ticketName": "INTERSECTION",
+                    "county": "MN",
+                    "countSum": 197,
+                    "costSum": 21152
+                },
+                {
+                    "ticketName": "RAILROAD CROSSING",
+                    "county": "MN",
+                    "countSum": 3,
+                    "costSum": 326
+                },
+                {
+                    "ticketName": "ALTERING INTERCITY BUS PERMIT",
+                    "county": "MN",
+                    "countSum": 11,
+                    "costSum": 1100
+                },
+                {
+                    "ticketName": "NO STANDING EXCP DP",
+                    "county": "MN",
+                    "countSum": 8,
+                    "costSum": 638
+                },
+                {
+                    "ticketName": "NO STANDING-FOR HIRE VEH STOP",
+                    "county": "MN",
+                    "countSum": 301,
+                    "costSum": 26807
+                },
+                {
+                    "ticketName": "NIGHTTIME STD/ PKG IN A PARK",
+                    "county": "MN",
+                    "countSum": 1,
+                    "costSum": 156
+                },
+                {
+                    "ticketName": "DIVIDED HIGHWAY",
+                    "county": "MN",
+                    "countSum": 1,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "TUNNEL/ELEVATED/ROADWAY",
+                    "county": "MN",
+                    "countSum": 138,
+                    "costSum": 12801
+                },
+                {
+                    "ticketName": "VEHICLE FOR SALE(DEALERS ONLY)",
+                    "county": "MN",
+                    "countSum": 4,
+                    "costSum": 160
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HOTEL LOADING",
+                    "county": "MN",
+                    "countSum": 20,
+                    "costSum": 1265
+                },
+                {
+                    "ticketName": "ANGLE PARKING-COMM VEHICLE",
+                    "county": "MN",
+                    "countSum": 19,
+                    "costSum": 1570
+                },
+                {
+                    "ticketName": "BUS PARKING IN LOWER MANHATTAN",
+                    "county": "MN",
+                    "countSum": 136,
+                    "costSum": 13245
+                },
+                {
+                    "ticketName": "MIDTOWN PKG OR STD-3HR LIMIT",
+                    "county": "MN",
+                    "countSum": 3,
+                    "costSum": 225
+                },
+                {
+                    "ticketName": "FEEDING METER",
+                    "county": "MN",
+                    "countSum": 4,
+                    "costSum": 320
+                },
+                {
+                    "ticketName": "NO STANDING-COMMUTER VAN STOP",
+                    "county": "MN",
+                    "countSum": 5,
+                    "costSum": 332
+                },
+                {
+                    "ticketName": "NO STANDING-SNOW EMERGENCY",
+                    "county": "MN",
+                    "countSum": 1,
+                    "costSum": 35
+                },
+                {
+                    "ticketName": "PKG IN EXC. OF LIM-COMM MTR ZN",
+                    "county": "MN",
+                    "countSum": 10,
+                    "costSum": 491
+                }
+            ]
+        },
+        {
+            "county": "Bronx",
+            "children": [{
+                    "ticketName": "PHTO SCHOOL ZN SPEED VIOLATION",
+                    "county": "BX",
+                    "countSum": 48347,
+                    "costSum": 2966225
+                },
+                {
+                    "ticketName": "NO PARKING-DAY/TIME LIMITS",
+                    "county": "BX",
+                    "countSum": 11954,
+                    "costSum": 810636
+                },
+                {
+                    "ticketName": "BUS LANE VIOLATION",
+                    "county": "BX",
+                    "countSum": 2408,
+                    "costSum": 313220
+                },
+                {
+                    "ticketName": "DOUBLE PARKING",
+                    "county": "BX",
+                    "countSum": 9750,
+                    "costSum": 1089637
+                },
+                {
+                    "ticketName": "FIRE HYDRANT",
+                    "county": "BX",
+                    "countSum": 9971,
+                    "costSum": 1242537
+                },
+                {
+                    "ticketName": "NO STANDING-BUS STOP",
+                    "county": "BX",
+                    "countSum": 4504,
+                    "costSum": 522382
+                },
+                {
+                    "ticketName": "",
+                    "county": "BX",
+                    "countSum": 2604,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "NO PARKING-STREET CLEANING",
+                    "county": "BX",
+                    "countSum": 27944,
+                    "costSum": 1608555
+                },
+                {
+                    "ticketName": "NO STANDING-DAY/TIME LIMITS",
+                    "county": "BX",
+                    "countSum": 8311,
+                    "costSum": 930845
+                },
+                {
+                    "ticketName": "FAIL TO DSPLY MUNI METER RECPT",
+                    "county": "BX",
+                    "countSum": 18979,
+                    "costSum": 609373
+                },
+                {
+                    "ticketName": "IMPROPER REGISTRATION",
+                    "county": "BX",
+                    "countSum": 704,
+                    "costSum": 39638
+                },
+                {
+                    "ticketName": "FRONT OR BACK PLATE MISSING",
+                    "county": "BX",
+                    "countSum": 2441,
+                    "costSum": 157944
+                },
+                {
+                    "ticketName": "INSP. STICKER-EXPIRED/MISSING",
+                    "county": "BX",
+                    "countSum": 10374,
+                    "costSum": 808383
+                },
+                {
+                    "ticketName": "ANGLE PARKING",
+                    "county": "BX",
+                    "countSum": 356,
+                    "costSum": 17540
+                },
+                {
+                    "ticketName": "OBSTRUCTING DRIVEWAY",
+                    "county": "BX",
+                    "countSum": 626,
+                    "costSum": 68516
+                },
+                {
+                    "ticketName": "CROSSWALK",
+                    "county": "BX",
+                    "countSum": 2130,
+                    "costSum": 250574
+                },
+                {
+                    "ticketName": "REG. STICKER-EXPIRED/MISSING",
+                    "county": "BX",
+                    "countSum": 5018,
+                    "costSum": 375027
+                },
+                {
+                    "ticketName": "OBSTRUCTING TRAFFIC/INTERSECT",
+                    "county": "BX",
+                    "countSum": 1392,
+                    "costSum": 154785
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. AUTH. VEHICLE",
+                    "county": "BX",
+                    "countSum": 745,
+                    "costSum": 63730
+                },
+                {
+                    "ticketName": "BIKE LANE",
+                    "county": "BX",
+                    "countSum": 1946,
+                    "costSum": 212431
+                },
+                {
+                    "ticketName": "WRONG WAY",
+                    "county": "BX",
+                    "countSum": 181,
+                    "costSum": 8858
+                },
+                {
+                    "ticketName": "MISSING EQUIPMENT",
+                    "county": "BX",
+                    "countSum": 174,
+                    "costSum": 8248
+                },
+                {
+                    "ticketName": "DETACHED TRAILER",
+                    "county": "BX",
+                    "countSum": 131,
+                    "costSum": 5930
+                },
+                {
+                    "ticketName": "STORAGE-3HR COMMERCIAL",
+                    "county": "BX",
+                    "countSum": 115,
+                    "costSum": 8020
+                },
+                {
+                    "ticketName": "EXPIRED MUNI METER",
+                    "county": "BX",
+                    "countSum": 8169,
+                    "costSum": 320435
+                },
+                {
+                    "ticketName": "NO STANDING-EXC. TRUCK LOADING",
+                    "county": "BX",
+                    "countSum": 597,
+                    "costSum": 57638
+                },
+                {
+                    "ticketName": "PEDESTRIAN RAMP",
+                    "county": "BX",
+                    "countSum": 173,
+                    "costSum": 27702
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. AUTH. VEHICLE",
+                    "county": "BX",
+                    "countSum": 1769,
+                    "costSum": 101361
+                },
+                {
+                    "ticketName": "SIDEWALK",
+                    "county": "BX",
+                    "countSum": 1061,
+                    "costSum": 127785
+                },
+                {
+                    "ticketName": "NON-COMPLIANCE W/ POSTED SIGN",
+                    "county": "BX",
+                    "countSum": 313,
+                    "costSum": 20793
+                },
+                {
+                    "ticketName": "NGHT PKG ON RESID STR-COMM VEH",
+                    "county": "BX",
+                    "countSum": 839,
+                    "costSum": 45627
+                },
+                {
+                    "ticketName": "ELEVATED/DIVIDED HIGHWAY/TUNNL",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 100
+                },
+                {
+                    "ticketName": "NIGHTTIME STD/ PKG IN A PARK",
+                    "county": "BX",
+                    "countSum": 13,
+                    "costSum": 1403
+                },
+                {
+                    "ticketName": "SAFETY ZONE",
+                    "county": "BX",
+                    "countSum": 465,
+                    "costSum": 53033
+                },
+                {
+                    "ticketName": "VEH-SALE/WSHNG/RPRNG/DRIVEWAY",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 55
+                },
+                {
+                    "ticketName": "OTHER",
+                    "county": "BX",
+                    "countSum": 31,
+                    "costSum": 2636
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HNDICAP PERMIT",
+                    "county": "BX",
+                    "countSum": 71,
+                    "costSum": 12385
+                },
+                {
+                    "ticketName": "UNAUTHORIZED PASSENGER PICK-UP",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "BEYOND MARKED SPACE",
+                    "county": "BX",
+                    "countSum": 85,
+                    "costSum": 4482
+                },
+                {
+                    "ticketName": "PLTFRM LFTS LWRD POS COMM VEH",
+                    "county": "BX",
+                    "countSum": 284,
+                    "costSum": 7870
+                },
+                {
+                    "ticketName": "COMML PLATES-UNALTERED VEHICLE",
+                    "county": "BX",
+                    "countSum": 280,
+                    "costSum": 29856
+                },
+                {
+                    "ticketName": "FAILURE TO STOP AT RED LIGHT",
+                    "county": "BX",
+                    "countSum": 27962,
+                    "costSum": 1676032
+                },
+                {
+                    "ticketName": "NO PARKING-TAXI STAND",
+                    "county": "BX",
+                    "countSum": 62,
+                    "costSum": 3138
+                },
+                {
+                    "ticketName": "NO STANDING-BUS LANE",
+                    "county": "BX",
+                    "countSum": 285,
+                    "costSum": 29651
+                },
+                {
+                    "ticketName": "TRAFFIC LANE",
+                    "county": "BX",
+                    "countSum": 25,
+                    "costSum": 1698
+                },
+                {
+                    "ticketName": "OVERNIGHT TRACTOR TRAILER PKG",
+                    "county": "BX",
+                    "countSum": 11,
+                    "costSum": 1350
+                },
+                {
+                    "ticketName": "RAILROAD CROSSING",
+                    "county": "BX",
+                    "countSum": 6,
+                    "costSum": 295
+                },
+                {
+                    "ticketName": "VEHICLE FOR SALE(DEALERS ONLY)",
+                    "county": "BX",
+                    "countSum": 19,
+                    "costSum": 851
+                },
+                {
+                    "ticketName": "REG STICKER-MUTILATED/C'FEIT",
+                    "county": "BX",
+                    "countSum": 26,
+                    "costSum": 1343
+                },
+                {
+                    "ticketName": "INSP STICKER-MUTILATED/C'FEIT",
+                    "county": "BX",
+                    "countSum": 91,
+                    "costSum": 6439
+                },
+                {
+                    "ticketName": "NO STANDING-TAXI STAND",
+                    "county": "BX",
+                    "countSum": 79,
+                    "costSum": 5648
+                },
+                {
+                    "ticketName": "NO MATCH-PLATE/STICKER",
+                    "county": "BX",
+                    "countSum": 209,
+                    "costSum": 12104
+                },
+                {
+                    "ticketName": "UNAUTHORIZED BUS LAYOVER",
+                    "county": "BX",
+                    "countSum": 5,
+                    "costSum": 0
+                },
+                {
+                    "ticketName": "INTERSECTION",
+                    "county": "BX",
+                    "countSum": 27,
+                    "costSum": 2985
+                },
+                {
+                    "ticketName": "PARKED BUS-EXC. DESIG. AREA",
+                    "county": "BX",
+                    "countSum": 113,
+                    "costSum": 5315
+                },
+                {
+                    "ticketName": "EXCAVATION-VEHICLE OBSTR TRAFF",
+                    "county": "BX",
+                    "countSum": 15,
+                    "costSum": 1255
+                },
+                {
+                    "ticketName": "DIVIDED HIGHWAY",
+                    "county": "BX",
+                    "countSum": 3,
+                    "costSum": 427
+                },
+                {
+                    "ticketName": "NO STOPPING-DAY/TIME LIMITS",
+                    "county": "BX",
+                    "countSum": 68,
+                    "costSum": 8209
+                },
+                {
+                    "ticketName": "MIDTOWN PKG OR STD-3HR LIMIT",
+                    "county": "BX",
+                    "countSum": 1,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "OVERTIME PKG-TIME LIMIT POSTED",
+                    "county": "BX",
+                    "countSum": 66,
+                    "costSum": 3499
+                },
+                {
+                    "ticketName": "FAIL TO DISP. MUNI METER RECPT",
+                    "county": "BX",
+                    "countSum": 107,
+                    "costSum": 2615
+                },
+                {
+                    "ticketName": "WASH/REPAIR VEHCL-REPAIR ONLY",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 45
+                },
+                {
+                    "ticketName": "EXPIRED MUNI MTR-COMM MTR ZN",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 130
+                },
+                {
+                    "ticketName": "NO STANDING-COMM METER ZONE",
+                    "county": "BX",
+                    "countSum": 1,
+                    "costSum": 115
+                },
+                {
+                    "ticketName": "DOUBLE PARKING-MIDTOWN COMML",
+                    "county": "BX",
+                    "countSum": 1,
+                    "costSum": 125
+                },
+                {
+                    "ticketName": "NO STANDING-HOTEL LOADING",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 207
+                },
+                {
+                    "ticketName": "NO PARKING-EXC. HOTEL LOADING",
+                    "county": "BX",
+                    "countSum": 1,
+                    "costSum": 122
+                },
+                {
+                    "ticketName": "ANGLE PARKING-COMM VEHICLE",
+                    "county": "BX",
+                    "countSum": 2,
+                    "costSum": 115
+                }
+            ]
+        }
+    ]
+}
