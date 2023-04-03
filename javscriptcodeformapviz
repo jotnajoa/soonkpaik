@@ -1,0 +1,100 @@
+mapboxgl.accessToken = 'YOUR_ACCESS_TOKEN';
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v10',
+    center: [-73.9808, 40.7648],
+    zoom: 10
+});
+
+const boros = ['Manhattan', 'Bronx', 'Brooklyn', 'Queens', 'Staten Island'];
+
+map.on('load', function () {
+    map.addControl(new mapboxgl.FullscreenControl());
+    map.addControl(new mapboxgl.NavigationControl());
+
+    // Load data from CSV file
+    d3.csv('my_final_data_nyc.csv').then(function (data) {
+
+        // Add layer for art galleries
+        map.addLayer({
+            id: 'art-galleries-layer',
+            type: 'circle',
+            source: {
+                type: 'geojson',
+                data: {
+                    type: 'FeatureCollection',
+                    features: data.map(function (d) {
+                        return {
+                            type: 'Feature',
+                            geometry: {
+                                type: 'Point',
+                                coordinates: [d.lon, d.lat]
+                            },
+                            properties: {
+                                boro: d.boro_name
+                            }
+                        }
+                    })
+                }
+            },
+            paint: {
+                'circle-radius': 6,
+                'circle-opacity': 0.7,
+                'circle-color': [
+                    'match',
+                    ['get', 'boro'],
+                    'Manhattan', '#fbb03b',
+                    'Bronx', '#223b53',
+                    'Brooklyn', '#e55e5e',
+                    'Queens', '#3bb2d0',
+                    'Staten Island', '#ccc',
+                    '#ccc'
+                ]
+            }
+        });
+    });
+});
+
+// Create a color scale for the boroughs
+const boroColorScale = d3.scaleOrdinal()
+    .domain(boros)
+    .range(["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd"]);
+    
+// Add layer for art galleries
+map.addLayer({
+    id: 'art-galleries-layer',
+    type: 'circle',
+    source: 'art-galleries-source',
+    paint: {
+        'circle-color': [
+            'match',
+            ['get', 'boro_name'],
+            'Manhattan', boroColorScale('Manhattan'),
+            'Bronx', boroColorScale('Bronx'),
+            'Brooklyn', boroColorScale('Brooklyn'),
+            'Queens', boroColorScale('Queens'),
+            'Staten Island', boroColorScale('Staten Island'),
+            boroColorScale('Other')
+        ],
+        'circle-radius': 5,
+        'circle-stroke-width': 1,
+        'circle-stroke-color': 'white'
+    }
+});
+
+// Create a popup for art galleries
+map.on('click', 'art-galleries-layer', (e) => {
+    const gallery = e.features[0].properties;
+    const popup = new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(`<h3>${gallery.NAME}</h3><p>${gallery.ADDRESS1}<br>${gallery.CITY}, NY ${gallery.ZIP}</p>`)
+        .addTo(map);
+});
+
+// Change cursor to pointer when hovering over art galleries
+map.on('mouseenter', 'art-galleries-layer', () => {
+    map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change cursor back to default when no longer hovering over art galleries
